@@ -14,6 +14,7 @@ angular.module('starter', [
 	'supermodular.home',
 	'supermodular.map',
 	'supermodular.wordpress',
+	'supermodular.rss',
 	'supermodular.menu',
 	'supermodular.elements',
 	'supermodular.popover-menu',

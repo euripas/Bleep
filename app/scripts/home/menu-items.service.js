@@ -18,6 +18,10 @@
 			path: 'wordpress-articles',
 			icon: 'ion-social-wordpress'
 		}, {
+			title: 'Rss',
+			path: 'rss-articles',
+			icon: 'ion-social-wordpress'
+		}, {
 			title: 'Elements',
 			path: 'elements',
 			icon: 'ion-android-checkbox-outline'
